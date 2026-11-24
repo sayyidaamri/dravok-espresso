@@ -2,7 +2,7 @@
 
 # Dravok Espresso
 
-Website katalog untuk **Dravok**, merek fiktif mesin espresso rumahan, kafe, dan tuas manual. Pengunjung menelusuri mesin, mengecek apakah mesin cocok dengan meja mereka (ruang, listrik, air, kedalaman), memilih konfigurasi, membandingkan, lalu mencari stockist. Tidak ada keranjang belanja: konsepnya katalog plus pencari toko. Ini rebuild orisinal yang terinspirasi tampilan dan perilaku sebuah situs katalog otomotif; merek, produk, teks, gambar, logo, dan kode di sini dibuat baru.
+Website katalog untuk **Dravok**, merek fiktif mesin espresso rumahan, kafe, dan tuas manual. Pengunjung menelusuri mesin, mengecek apakah mesin cocok dengan meja mereka (ruang, listrik, air, kedalaman), memilih konfigurasi, membandingkan, lalu mencari stockist. Tidak ada keranjang belanja: konsepnya katalog plus pencari toko. Merek, produk, teks, gambar, logo, dan kode di sini dibuat baru.
 
 ## Halaman
 
@@ -29,7 +29,7 @@ Website katalog untuk **Dravok**, merek fiktif mesin espresso rumahan, kafe, dan
 - Pencari meja bertingkat; pilihan disimpan dan dipakai untuk status **Direct Fit / Needs Review** di seluruh situs.
 - My Bar, Saved setups, dan Compare (maks. 4 mesin) di `localStorage`.
 - Pencarian instan, laci filter, menu mobile, dialog setup, zoom galeri, dialog support (jawaban tertulis, bukan AI), panel aksesibilitas, banner cookie.
-- Menghormati `prefers-reduced-motion`. Tidak ada sound (referensi juga tidak memakainya).
+- Menghormati `prefers-reduced-motion`. Tidak ada sound.
 - Diuji di 1440 px dan 390 px.
 
 ## Teknologi
